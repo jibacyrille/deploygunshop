@@ -1,0 +1,31 @@
+[
+    {
+        "hotelId": 1,
+        "hotelName": "Jiba Sweet Life",
+        "description": "Belle vue sur la mer",
+        "price": 230.5,
+        "imageUrl": "assets/img/hotel1.jpg",
+        "rating": 3.5
+      },{
+        "hotelId": 2,
+        "hotelName": "Paris Hilton",
+        "description": "Profitez de votre visite a paris",
+        "price": 180,
+        "imageUrl": "assets/img/hotel2.jpg",
+        "rating": 5
+      },{
+        "hotelId": 3,
+        "hotelName": "London Ducker",
+        "description": "Toujours aussi soft",
+        "price": 280.5,
+        "imageUrl": "assets/img/hotel3.jpg",
+        "rating": 4
+      },{
+        "hotelId": 4,
+        "hotelName": "Los Angeles Closet",
+        "description": "The place to be",
+        "price": 320,
+        "imageUrl": "assets/img/hotel4.jpg",
+        "rating": 2.5
+      }
+]
